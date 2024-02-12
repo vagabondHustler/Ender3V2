@@ -2318,7 +2318,7 @@
 // #define XY_SIDE_AD 200     //vH
 
 // Or, set the XY skew factor directly:
-// #define XY_SKEW_FACTOR 0.0
+#define XY_SKEW_FACTOR 0.008288 // vH
 
 // #define SKEW_CORRECTION_FOR_Z
 #if ENABLED(SKEW_CORRECTION_FOR_Z)
